@@ -1,0 +1,2 @@
+# codesandbox__skeleton_loading__plain_javascript
+Created with CodeSandbox
